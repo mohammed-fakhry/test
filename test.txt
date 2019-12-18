@@ -1,0 +1,420 @@
+<section class="teamSec container-fluid">
+        <div class="title text-center py-5">
+            <h2 data-bigletter="c">Creative Team</h2>
+            <h4>We are digital thinkers</h4>
+        </div>
+        <div class="container-fluid pb-5">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-12 teamImg">
+                    <img class="img-fluid" src="images/team-1.jpg" alt="">
+                    <div class="teamOverlay">
+                        <div class="container">
+                            <div class="row">
+                                <a href="#">
+                                    <i class="teamSocial fab fa-facebook-f nav-item nav-link teamSocial"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-twitter nav-item nav-link teamSocial"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-instagram nav-item nav-link teamSocial"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="teamSecInfo">
+                            <h4>Luke Cage</h4>
+                            <span>Founder & CEO</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 teamImg">
+                    <img class="img-fluid" src="images/team-2.jpg" alt="">
+                    <div class="teamOverlay">
+                        <div class="container">
+                            <div class="row">
+                                <a href="#">
+                                    <i class="teamSocial fab fa-facebook-f nav-item nav-link"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-twitter nav-item nav-link"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-instagram nav-item nav-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="teamSecInfo">
+                            <h4>Luke Cage</h4>
+                            <span>Founder & CEO</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 teamImg">
+                    <img class="img-fluid" src="images/team-3.jpg" alt="">
+                    <div class="teamOverlay">
+                        <div class="container">
+                            <div class="row">
+                                <a href="#">
+                                    <i class="teamSocial fab fa-facebook-f nav-item nav-link"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-twitter nav-item nav-link"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-instagram nav-item nav-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="teamSecInfo">
+                            <h4>Luke Cage</h4>
+                            <span>Founder & CEO</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 teamImg">
+                    <img class="img-fluid" src="images/team-4.jpg" alt="">
+                    <div class="teamOverlay">
+                        <div class="container">
+                            <div class="row">
+                                <a href="#">
+                                    <i class="teamSocial fab fa-facebook-f nav-item nav-link"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-twitter nav-item nav-link"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="teamSocial fab fa-instagram nav-item nav-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="teamSecInfo">
+                            <h4>Luke Cage</h4>
+                            <span>Founder & CEO</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+-------------------------------------------------------------------------------------------------------------------------------
+    <section class="ourWorks text-center title">
+        <div class="title">
+            <h2 data-bigletter="o">Our Works</h2>
+            <hr class="justify-content-center">
+            <div class="ourWorksNv py-5">
+                <ul class="nav justify-content-center">
+                    <li class="nav-item px-3">
+                        <a class="nav-link workMBotn" href="#">All</a>
+                    </li>
+                    <li class="nav-item px-3">
+                        <a class="nav-link workSBotn" href="#">Branding</a>
+                    </li>
+                    <li class="nav-item px-3">
+                        <a class="nav-link workSBotn" href="#">Product Design</a>
+                    </li>
+                    <li class="nav-item px-3">
+                        <a class="nav-link workSBotn" href="#">Packaging</a>
+                    </li>
+                    <li class="nav-item px-3">
+                        <a class="nav-link workSBotn" href="#">UI/UX</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="ourWorksMImg">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="ourWorksani">
+                            <a href="">
+                                <img class="img-fluid" src="images/portfolio-1.jpg" alt="">
+                            </a>
+                            <div class="oWrorksOverlay">
+                                <h3>Mux Cards</h3>
+                                <p>Branding, Ui/Ux</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="ourWorksani">
+                            <a href="">
+                                <img class="img-fluid" src="images/portfolio-2.jpg" alt="">
+                            </a>
+                            <div class="oWrorksOverlay">
+                                <h3>Prerkse Coffe</h3>
+                                <p>Product Design, Packaging</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="ourWorksani">
+                            <a href="">
+                                <img class="img-fluid" src="images/portfolio-3.jpg" alt="">
+                            </a>
+                            <div class="oWrorksOverlay">
+                                <h3>Petit Natural</h3>
+                                <p>Branding, Packaging</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="ourWorksani">
+                            <a href="">
+                                <img class="img-fluid" src="images/portfolio-4.jpg" alt="">
+                            </a>
+                            <div class="oWrorksOverlay">
+                                <h3>Float Bubbles</h3>
+                                <p>Ui/Ux, Product Design</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="ourWorksani">
+                            <a href="">
+                                <img class="img-fluid" src="images/portfolio-5.jpg" alt="">
+                            </a>
+                            <div class="oWrorksOverlay">
+                                <h3>Apple Watch Mocup</h3>
+                                <p>Branding, Packaging</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="ourWorksani">
+                            <a href="">
+                                <img class="img-fluid" src="images/portfolio-6.jpg" alt="">
+                            </a>
+                            <div class="oWrorksOverlay">
+                                <h3>Krafting Navy</h3>
+                                <p>Product Design, Packaging</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+-------------------------------------------------------------------------------------------------------------------------------
+    <section class="cheappR">
+        <div class="container">
+            <div class="title text-center">
+                <h2 data-bigletter="c">Cheap Prices</h2>
+                <h4>We provide the best quality.</h4>
+            </div>
+            <div class="">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="pricing-table">
+                            <div class="pricing-head">
+                                <h4>Starter</h4>
+                            </div>
+                            <div class="price">
+                                <h2><span>$</span>9</h2>
+                            </div>
+                            <ul class="features nav">
+                                <li><span>Unlimited Connections</span>
+                                </li>
+                                <li><span>24/7 Support</span>
+                                </li>
+                                <li><span>Full SSL Protection</span>
+                                </li>
+                                <li><span>Unlimited Channels</span>
+                                </li>
+                            </ul>
+                            <div class="pricing-footer"><a class="btn btn-info btn-sm btn-shadow" href="#">Sign Up</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="pricing-table">
+                            <div class="pricing-head">
+                                <h4>Silver</h4>
+                            </div>
+                            <div class="price">
+                                <h2><span>$</span>19</h2>
+                            </div>
+                            <ul class="features nav">
+                                <li><span>Unlimited Connections</span>
+                                </li>
+                                <li><span>24/7 Support</span>
+                                </li>
+                                <li><span>Full SSL Protection</span>
+                                </li>
+                                <li><span>Unlimited Channels</span>
+                                </li>
+                            </ul>
+                            <div class="pricing-footer"><a class="btn btn-info btn-sm btn-shadow" href="#">Sign Up</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="pricing-table featured"><span class="featured-label">Best Value</span>
+                            <div class="pricing-head">
+                                <h4>Gold</h4>
+                            </div>
+                            <div class="price">
+                                <h2><span>$</span>29</h2>
+                            </div>
+                            <ul class="features nav">
+                                <li><span>Unlimited Connections</span>
+                                </li>
+                                <li><span>24/7 Support</span>
+                                </li>
+                                <li><span>Full SSL Protection</span>
+                                </li>
+                                <li><span>Unlimited Channels</span>
+                                </li>
+                            </ul>
+                            <div class="pricing-footer"><a class="btn btn-sm btn-shadow btn-info" href="#">Sign Up</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="pricing-table">
+                            <div class="pricing-head">
+                                <h4>Platinum</h4>
+                            </div>
+                            <div class="price">
+                                <h2><span>$</span>49</h2>
+                            </div>
+                            <ul class="features nav">
+                                <li><span>Unlimited Connections</span>
+                                </li>
+                                <li><span>24/7 Support</span>
+                                </li>
+                                <li><span>Full SSL Protection</span>
+                                </li>
+                                <li><span>Unlimited Channels</span>
+                                </li>
+                            </ul>
+                            <div class="pricing-footer"><a class="btn btn-sm btn-shadow btn-info" href="#">Sign Up</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+-------------------------------------------------------------------------------------------------------------------------------
+    <footer class="footer">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 footerSec">
+                        <div class="fLogo">
+                            <img src="images/logo-dark.png" alt="">
+                        </div>
+                        <div class="textWidget">
+                            <p>387 Madison Ave
+                                <br>
+                                New York, NY 10118
+                            </p>
+                            <p>hello@bezel.co
+                                <br>
+                                +1 301-736-4321
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 footerSec">
+                        <h5>THE COMPANY</h5>
+                        <div class="menuFooter">
+                            <ul>
+                                <li>
+                                    <a class="nav-link" href="">About us</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">What We Do</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">our Vision</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">Portfolio</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">Carees</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 footerSec">
+                        <h5>RECENT POSTS</h5>
+                        <div class="menuFooter">
+                            <ul>
+                                <li>
+                                    <a class="nav-link" href="">You Can’t Handle Truth</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">How To Add Value To Your Life</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">A Letter to My 12-Year-Old Self</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">Weak Words Kill Experiences</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="">An Almost Static Stack</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 footerSec resent">
+                        <h5>RECENT POSTS</h5>
+                        <div class="menuFooter">
+                            <a class="nav-link" href="">BUSINESS</a>
+                            <a class="nav-link" href="">DESIGN</a>
+                            <a class="nav-link" href="">DEVELOPMENT</a>
+                            <a class="nav-link" href="">INSPIRATION</a>
+                            <a class="nav-link" href="">LIFESTYLE</a>
+                            <a class="nav-link" href="">TIPs</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footerSocial">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul class="social-list row">
+                                <li>
+                                    <a href="">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        <i class="fab fa-facebook-f"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        <i class="fab fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        <i class="fab fa-pinterest-p"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="socText">
+                                <p>© 2017 Bezel. All rights reserved.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+    </footer>
